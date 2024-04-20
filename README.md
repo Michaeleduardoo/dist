@@ -15,11 +15,9 @@
 <h1></h1>
 
 <div>
-    <h3><a target="_blank" href="https://animamenu.netlify.app/">VER SITE</a></h3>
-    <h3><a target="_blank" href="https://animamenu.netlify.app/">Votar no LinkedIn</a></h3>
+    <h3><a target="_blank" href="https://animamenu.netlify.app/">SITE</a></h3>
+    <h3><a target="_blank" href="https://animamenu.netlify.app/">VOTAR NO LINKEDIN</a></h3>
 </div>
-
-
 
 </div
 
