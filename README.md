@@ -15,8 +15,8 @@
 <h1></h1>
 
 <div>
-    <h3><a target="_blank" href="https://animamenu.netlify.app/">SITE</a></h3>
-    <h3><a target="_blank" href="https://animamenu.netlify.app/">VOTAR NO LINKEDIN</a></h3>
+    <h3><a target="_blank" href="https://iconesvote.netlify.app/">SITE</a></h3>
+    <h3><a target="_blank" href="https://www.linkedin.com/posts/michael-eduardo_html-css-activity-7187264340540932096-WW8-?utm_source=share&utm_medium=member_desktop">VOTAR NO LINKEDIN</a></h3>
 </div>
 
 </div
